@@ -10,7 +10,7 @@
 ### _User on github_
 
 
-!(photo.png)
+!(https://irasmo.github.com/photo.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
