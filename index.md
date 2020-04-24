@@ -13,7 +13,7 @@
 
 
 For more information you can use [Google](https://www.google.com.ua/).
-Visit my [event](https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NmEwbTZ0ZmwwODU4YmVxYWtiaWNlMTNta24gaXJlbmthc21vQG0&amp;tmsrc=irenkasmo%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif).
+Visit my [event](https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NmEwbTZ0ZmwwODU4YmVxYWtiaWNlMTNta24gaXJlbmthc21vQG0&amp;tmsrc=irenkasmo%40gmail.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_uk.gif/).
 
 
 
