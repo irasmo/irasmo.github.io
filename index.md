@@ -5,9 +5,9 @@
 
 
 # Author page
-## **Visit my [event](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmEwbTZ0ZmwwODU4YmVxYWtiaWNlMTNta24gaXJlbmthc21vQG0&tmsrc=irenkasmo%40gmail.com).
-**
-### [Some questions] (https://forms.gle/ymxUKCoASBizQMoY9)
+## Visit my [event](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmEwbTZ0ZmwwODU4YmVxYWtiaWNlMTNta24gaXJlbmthc21vQG0&tmsrc=irenkasmo%40gmail.com).
+
+### [Some questions](https://forms.gle/ymxUKCoASBizQMoY9)
 
 
 
