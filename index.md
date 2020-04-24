@@ -5,7 +5,8 @@
 
 
 # Author page
-## **About me**
+## **Visit my [event](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmEwbTZ0ZmwwODU4YmVxYWtiaWNlMTNta24gaXJlbmthc21vQG0&tmsrc=irenkasmo%40gmail.com).
+**
 ### _User on github_
 
 
@@ -13,7 +14,6 @@
 
 
 For more information you can use [Google](https://www.google.com.ua/).
-Visit my [event](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmEwbTZ0ZmwwODU4YmVxYWtiaWNlMTNta24gaXJlbmthc21vQG0&tmsrc=irenkasmo%40gmail.com).
 
 
 
