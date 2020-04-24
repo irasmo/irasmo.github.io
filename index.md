@@ -7,7 +7,7 @@
 # Author page
 ## **Visit my [event](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmEwbTZ0ZmwwODU4YmVxYWtiaWNlMTNta24gaXJlbmthc21vQG0&tmsrc=irenkasmo%40gmail.com).
 **
-### [Some questions] (https://docs.google.com/forms/d/e/1FAIpQLSc8aeriSNXIVLlMYpwgREHA5uYsrWLqaKsXx7b0loqCQRZ7Gg/viewform?embedded)
+### [Some questions] (https://forms.gle/ymxUKCoASBizQMoY9)
 
 )
 
